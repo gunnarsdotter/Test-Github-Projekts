@@ -1,3 +1,4 @@
+#Hejdå
 #Hejsan
 import random
 
