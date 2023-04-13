@@ -1,3 +1,4 @@
+#Hej
 import random
 
 siffra = random.randint(0,12)
